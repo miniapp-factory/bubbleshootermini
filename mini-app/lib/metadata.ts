@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "Business Concept Generator";
+export const description = "An app that suggests business concepts and models.";
 export const url = process.env.NEXT_PUBLIC_URL;
